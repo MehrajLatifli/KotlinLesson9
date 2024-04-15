@@ -1,0 +1,10 @@
+
+wkotlin:S1172"-Remove this unused function parameter "args".(¥å¥ûÿÿÿÿ8¯êóî1J$77b4f1a4-fe16-4f53-a386-047822f77da8
+ekotlin:S6615*" Remove this useless initializer.(û…ÃÃ8°êóî1J$57c464ce-bee0-49bf-8f45-879de1f9a304
+œkotlin:S117"SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(œêóÚÿÿÿÿÿ8²êóî1J$f09e0567-0d24-4952-a2c1-b2a3c9a5f4f0
+—kotlin:S117"SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(³½í…8²êóî1J$d704e2ad-f75d-497b-8b9c-e5d01f06b02e
+—kotlin:S117"SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(°íûê8²êóî1J$4010b84d-e2f9-4c6e-adf1-b2d20229bd04
+nkotlin:S1481?"*Remove this unused "index" local variable.(¼â—8´êóî1J$bdc69d86-c434-465c-9e0c-42494b9b022d
+nkotlin:S1481:"*Remove this unused "index" local variable.(¼â—8µêóî1J$45714e27-da2f-4e6a-80cd-e8fd6135bd74
+okotlin:S1481/"*Remove this unused "index" local variable.(Æ×Êï8µêóî1J$113ca7d2-8bfd-4246-9b7c-9ca61bba4e6e
+okotlin:S1481%"*Remove this unused "index" local variable.(Æ×Êï8µêóî1J$1f71d21a-c549-4739-b00b-35d0bd7b43e5
