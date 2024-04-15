@@ -62,7 +62,7 @@ fun main(args: Array<String>) {
 
     for ((index, item) in studentArraylist2.withIndex()) {
 
-        avgstudent2 = (item.note_1 + item.note_2 + item.note_3) / 3
+        avgstudent2 = (item.note_1 + item.note_2 + item.note_3) / studentArraylist2.size
     }
 
     println(avgstudent2)
